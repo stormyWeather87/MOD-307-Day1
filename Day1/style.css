@@ -1,0 +1,43 @@
+section{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+    border-style: solid;
+    border-color: azure;
+    border-radius: 25px 25px;
+    box-shadow: inset 5px 5px 10px rgba(255,19,240,.5), 5px 5px 10px rgba(255,19,240,.1);
+    
+
+}
+
+}
+h1{
+    
+}
+body{
+    text-align: center;
+    font-family: 'Bradley Hand', 'Bradley Hand', 'Bradley Hand';
+    color: rgb(232, 162, 214);
+    background-color: rgb(153, 98, 241);
+    
+    
+}
+ul{
+    display: inline;
+    text-align: left;
+    align-items: center;
+    margin-right: 30px;
+
+}
+img{
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+
+}
+
+
+
+
+
